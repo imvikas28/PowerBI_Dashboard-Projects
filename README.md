@@ -36,6 +36,7 @@ Metrics: Total sales, average sales, number of items, and average ratings.
 
 **Step 4:** 
 Dashboard Layout and Formatting Custom Layout: Adjust Power BI’s default sizing to fit visuals for better clarity. Use themes and consistent colors to enhance readability and appeal. Chart Formatting: Ensure each chart is clear and visually intuitive. Add annotations or tooltips to highlight key insights. 
+
 **Step 5:**
 Insights and Reporting Generate Insights: Summarize major trends and observations from KPIs and visual charts. Identify patterns, such as high-performing outlets, bestselling item types, or customer preferences.
 Create Final Report: Include an executive summary with all key insights. Provide actionable recommendations, such as improving stock for high-performing item types or focusing on customer-preferred outlets. 
